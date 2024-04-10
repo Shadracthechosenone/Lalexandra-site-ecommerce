@@ -1,0 +1,13 @@
+List chose à faire :
+TASK 1 :
+Dans le fichier checkout.html, ecrire du code javascript qui permet d'effectuer le choix de paiement à domicile ou en ligne, de tel sorte quand l'un est choisit, ce qui le concerne est affiché.
+Peut-être on a deux boutons : Paiement à la livraison, paiement en ligne
+
+Quand paiement en ligne est choisit, le formulaire du paiement en ligne s'affiche en dessous.
+Quand à la livraison est choisit, peut-être son bouton change de couleur, ou un texte "Paiement à la livraison" s'affiche en bas, au lieu du formulaire de paiement en ligne
+
+TASK 2 :
+Modifier la nav et ajouter une barre de recherche, qui soit coherente avec les autres elements graphique du site
+
+TASK 3:
+Modifier les elements comme le logo etc, avec ceux qui conviennent, dans la nav, le footer et autre. Aussi, creer une favicon
